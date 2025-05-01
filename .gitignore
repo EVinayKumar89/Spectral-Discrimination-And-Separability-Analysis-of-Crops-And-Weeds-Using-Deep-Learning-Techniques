@@ -1,6 +1,32 @@
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+# Jupyter notebook checkpoints
+*.ipynb_checkpoints
+
+# macOS system file
+.DS_Store
+
+# Large data or model files
+*.npy
+*.npz
+*.csv
+*.zip
+*.tar.gz
+*.h5
+*.pt
+*.ckpt
+
+# Dataset folder
+v2-plant-seedlings-dataset/
+
+y
+y
 *$py.class
 
 # C extensions
